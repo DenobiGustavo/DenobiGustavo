@@ -1,11 +1,10 @@
 <h2 align="left">Hey there! I'm Gustavo Denobi</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I currently live in Bandeirantes PR.\
-💡 &nbsp;Study Computer Science at UENP.
+💡 &nbsp;Study Computer Science at UENP.\
+👋 &nbsp;gmail: gustavodenobi13@gmail.com
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -27,5 +26,4 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/gustavodenobi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="gustavodenobi13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
