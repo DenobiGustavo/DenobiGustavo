@@ -3,6 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I currently live in Bandeirantes PR.\
+👨🏻‍💻 &nbsp;I'm 20 years old.\
 💡 &nbsp;Study Computer Science at UENP.\
 👋 &nbsp;gmail: gustavodenobi13@gmail.com
 
