@@ -4,8 +4,7 @@
 
 👨‍💻 &nbsp;I currently live in Bandeirantes PR.\
 👨🏻‍💻 &nbsp;I'm 20 years old.\
-💡 &nbsp;Study Computer Science at UENP.\
-👋 &nbsp;gmail: gustavodenobi13@gmail.com
+💡 &nbsp;Study Computer Science at UENP.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
