@@ -28,4 +28,4 @@
 <a href="https://www.linkedin.com/in/gustavodenobi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-# galera lera eu sou fechado com a tropa do bolsonaro
+
