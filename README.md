@@ -1,17 +1,3 @@
-# galera lera eu sou fechado com a tropa do bolsonaro
-# galera lera eu sou fechado com a tropa do bolsonaro
-# galera lera eu sou fechado com a tropa do bolsonaro
-# galera lera eu sou fechado com a tropa do bolsonaro
-# galera lera eu sou fechado com a tropa do bolsonaro
-# galera lera eu sou fechado com a tropa do bolsonaro
-# galera lera eu sou fechado com a tropa do bolsonaro
-# galera lera eu sou fechado com a tropa do bolsonaro
-# galera lera eu sou fechado com a tropa do bolsonaro
-# galera lera eu sou fechado com a tropa do bolsonaro
-# galera lera eu sou fechado com a tropa do bolsonaro
-# faz o m
-
-
 <h2 align="left">Hey there! I'm Gustavo Denobi</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
