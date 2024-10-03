@@ -1,3 +1,17 @@
+# galera lera eu sou fechado com a tropa do bolsonaro
+# galera lera eu sou fechado com a tropa do bolsonaro
+# galera lera eu sou fechado com a tropa do bolsonaro
+# galera lera eu sou fechado com a tropa do bolsonaro
+# galera lera eu sou fechado com a tropa do bolsonaro
+# galera lera eu sou fechado com a tropa do bolsonaro
+# galera lera eu sou fechado com a tropa do bolsonaro
+# galera lera eu sou fechado com a tropa do bolsonaro
+# galera lera eu sou fechado com a tropa do bolsonaro
+# galera lera eu sou fechado com a tropa do bolsonaro
+# galera lera eu sou fechado com a tropa do bolsonaro
+# faz o m
+
+
 <h2 align="left">Hey there! I'm Gustavo Denobi</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -27,3 +41,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/gustavodenobi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
+# galera lera eu sou fechado com a tropa do bolsonaro
