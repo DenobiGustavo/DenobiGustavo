@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I currently live in Bandeirantes PR.\
+👨‍💻 &nbsp;I currently live in Ribeirão Claro PR.\
 👨🏻‍💻 &nbsp;I'm 22 years old.\
 💡 &nbsp;Study Computer Science at UENP.
 
